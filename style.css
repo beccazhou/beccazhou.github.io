@@ -8,7 +8,7 @@ h1 {
     text-align: center;
     transition: all .2s ease-in-out;
     transition: color(#ffe4e1);
-    font: 400 40px/0.8 'Great Vibes', Helvetica, sans-serif;
+    font: 400 50px/0.8 'Great Vibes', Helvetica, sans-serif;
     color: #fff;
 }
 h1:hover {
