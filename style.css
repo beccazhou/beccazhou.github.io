@@ -10,6 +10,7 @@ h1 {
     transition: color(#ffe4e1);
     font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
     color: #fff;
+    font-size: 30px;
 }
 h1:hover {
     transform: scale(1.1);
