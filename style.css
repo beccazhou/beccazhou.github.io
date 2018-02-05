@@ -44,6 +44,7 @@ h1 a, visited {
 }
 #nav ul li:hover {
     background-color: #fff0f5;
+    transform: scale(1.1);
 }
 #nav ul li a, visited {
     color: #222;
@@ -54,6 +55,7 @@ h1 a, visited {
 #nav ul li:hover ul {
     display: block;
     background-color: #fff0f5;
+    transform: scale(1.1);
 }
 #nav ul ul {
     display: none;
