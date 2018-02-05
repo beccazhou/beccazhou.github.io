@@ -36,11 +36,12 @@ h1 {
 }
 #nav ul li:hover ul {
     display: block;
+    background-color: #fff0f5;
 }
 #nav ul ul {
     display: none;
     position: absolute;
-    background-color: #333;
+    background-color: #ffe4e1;
     border: 5px solid #222;
     border-top: 0;
     margin-left: -5px;
