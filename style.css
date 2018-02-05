@@ -34,7 +34,7 @@ h1 a, visited {
 #nav ul {
     list-style-type: none;
     padding: 0;
-    margin: 5px;
+    margin: 0;
     position: relative;
     min-width: 200px;
 }
