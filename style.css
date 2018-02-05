@@ -31,7 +31,7 @@ h1 {
 #nav ul li a, visited {
     color: #222;
     display: block;
-    padding: 0;
+    padding: 20px;
     text-decoration: none;
 }
 #nav ul li:hover ul {
@@ -55,6 +55,6 @@ h2 {
     padding: 5px;
     margin: 10px;
 }
-h2 {
+p {
     padding: 5px;
 }
