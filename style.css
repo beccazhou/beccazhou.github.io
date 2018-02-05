@@ -73,10 +73,12 @@ h2 {
     margin: 30px;
     margin-bottom: 20px;
     font-size: 24px;
+    color: #222;
 }
 p {
     padding: 3px;
     margin-left: 40px;
     margin-right: 40px;
     font-family: Arial;
+    color: #222;
 }
