@@ -42,7 +42,7 @@ h1 a, visited {
 #nav ul li {
     display: inline-block;
     transition: all .2s ease-in-out;
-    border-radius:10%;
+    border-radius:7%;
 }
 #nav ul li:hover {
     background-color: #fff0f5;
