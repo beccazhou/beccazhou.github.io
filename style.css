@@ -4,11 +4,17 @@ body {
     font-family: Arial;
     font-size: 17px;
 }
+h1 {
+    float:left;
+    font-size: 30px;
+    text-decoration: underline;
+}
 #nav {
+    float: right;
     background-color: #ffe4e1;
 }
 #nav_wrapper {
-    width: 2000px
+    width: 2000px;
     margin: 0 auto;
     text-align: left;
 }
