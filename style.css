@@ -8,6 +8,7 @@ body {
     background-color: #ffe4e1;
 }
 #nav_wrapper {
+    width: 1100px
     margin: 0 auto;
     text-align: left;
 }
