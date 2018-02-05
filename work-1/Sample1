@@ -1,0 +1,9 @@
+<html>
+    <head>
+      <title>Rebecca's Github Pages Site</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+    </head>
+    <body>
+      <div class="frame">
+      <h1>Rebecca's Github Pages Site</h1>
+      <nav><ul class="main-menu">
