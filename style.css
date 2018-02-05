@@ -16,7 +16,7 @@ h1:hover {
 h1 a, visited {
     color: #222;
     display: block;
-    padding: 20px;
+    padding: 5px;
     text-decoration: none;
 }
 h1:hover ul {
