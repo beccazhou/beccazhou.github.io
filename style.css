@@ -23,7 +23,8 @@ h1 {
     min-width: 200px;
 }
 #nav ul li {
-    display: inline-block;
+    display: block;
+    padding: 20px;
 }
 #nav ul li:hover {
     background-color: #fff0f5;
@@ -42,7 +43,6 @@ h1 {
     display: none;
     position: absolute;
     background-color: #ffe4e1;
-    border: 5px solid #222;
     border-top: 0;
     margin-left: -5px;
 }
