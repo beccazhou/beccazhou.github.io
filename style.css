@@ -99,7 +99,7 @@ p {
 }
 table {  
     color: #333;
-    width: 640px; 
+    width: 100%; 
     border-collapse: 
     collapse; border-spacing: 0; 
 }
@@ -114,6 +114,7 @@ th {
 td {  
     background: #FAFAFA;
     text-align: center;
+    width= (100/x)% ;
 }       
 tr:nth-child(even) td { 
     background: #F1F1F1; 
