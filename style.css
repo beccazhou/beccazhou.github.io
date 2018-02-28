@@ -109,13 +109,12 @@ td, th {
     width: 25px;
 }
 th {  
-    background: #DFDFDF;  /* Darken header a bit */
+    background: #DFDFDF;  
     font-weight: bold;
 }
 td {  
     background: #FAFAFA;
     text-align: center;
-    width= (100/x)% ;
 }       
 tr:nth-child(even) td { 
     background: #F1F1F1; 
